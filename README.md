@@ -13,7 +13,6 @@
         evaluation, and visualization. The projects cover a variety of domains such as environmental science,
         finance, recommendation systems, and audio classification.
     </p>
-
     <h2>Tasks Summary</h2>
     <ul>
         <li>
@@ -37,7 +36,6 @@
             Techniques: Librosa feature extraction, Random Forest, XGBoost, CNN models.
         </li>
     </ul>
-
     <h2>Technologies Used</h2>
     <ul>
         <li>Python (Pandas, NumPy, Scikit-learn, XGBoost, Keras, Librosa)</li>
@@ -45,7 +43,6 @@
         <li>Data visualization libraries (Matplotlib, Seaborn)</li>
         <li>SMOTE for class imbalance handling</li>
     </ul>
-
     <h2>How to Run</h2>
     <ol>
         <li>Clone the repository:
