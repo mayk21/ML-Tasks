@@ -36,27 +36,12 @@
             Techniques: Librosa feature extraction, Random Forest, XGBoost, CNN models.
         </li>
     </ul>
-    <h2>Technologies Used</h2>
+    <h2>Libraries/Technologies Used</h2>
     <ul>
         <li>Python (Pandas, NumPy, Scikit-learn, XGBoost, Keras, Librosa)</li>
         <li>Jupyter Notebook</li>
         <li>Data visualization libraries (Matplotlib, Seaborn)</li>
         <li>SMOTE for class imbalance handling</li>
     </ul>
-    <h2>How to Run</h2>
-    <ol>
-        <li>Clone the repository:
-            <pre>git clone https://github.com/&lt;username&gt;/ML_tasks.git</pre>
-        </li>
-        <li>Navigate to the desired task folder:
-            <pre>cd ML_tasks/task1</pre>
-        </li>
-        <li>Install dependencies:
-            <pre>pip install -r requirements.txt</pre>
-        </li>
-        <li>Open the Jupyter Notebook:
-            <pre>jupyter notebook filename.ipynb</pre>
-        </li>
-    </ol>
 </body>
 </html>
