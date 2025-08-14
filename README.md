@@ -8,7 +8,7 @@
     <h1>Machine Learning Tasks — Elvevvo Internship</h1>
     <h2>Overview</h2>
     <p>
-        This repository contains four machine learning projects completed during my internship at Elvevvo.
+        This repository contains four machine learning projects completed during my internship at Elvevvo. <br>
         Each task demonstrates different aspects of the ML workflow, including data preprocessing, model training,
         evaluation, and visualization. The projects cover a variety of domains such as environmental science,
         finance, recommendation systems, and audio classification.
