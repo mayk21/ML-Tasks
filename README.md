@@ -16,22 +16,22 @@
     <h2>Tasks Summary</h2>
     <ul>
         <li>
-            <strong><a href="task1/">Task 1: Forest Cover Type Classification</a></strong> — 
+            <strong>Task 1: Forest Cover Type Classification</a></strong> — 
             Predicts forest cover types using cartographic and environmental features.
             Techniques: Random Forest, XGBoost, hyperparameter tuning, feature importance analysis.
         </li>
         <li>
-            <strong><a href="task2/">Task 2: Loan Approval Prediction</a></strong> — 
+            <strong>Task 2: Loan Approval Prediction</a></strong> — 
             Predicts loan application approvals with imbalanced data handling.
             Techniques: Logistic Regression, Decision Tree, SMOTE, precision/recall/F1-score evaluation.
         </li>
         <li>
-            <strong><a href="task3/">Task 3: Movie Recommendation System</a></strong> — 
+            <strong>Task 3: Movie Recommendation System</a></strong> — 
             Recommends movies based on user similarity and preferences.
             Techniques: User-based collaborative filtering, item-based filtering, matrix factorization (SVD).
         </li>
         <li>
-            <strong><a href="task4/">Task 4: Music Genre Classification</a></strong> — 
+            <strong>Task 4: Music Genre Classification</a></strong> — 
             Classifies songs into genres using audio feature extraction or spectrogram images.
             Techniques: Librosa feature extraction, Random Forest, XGBoost, CNN models.
         </li>
