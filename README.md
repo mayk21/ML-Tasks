@@ -33,7 +33,7 @@
         <li>
             <strong>Task 4: Music Genre Classification</a></strong> — 
             Classifies songs into genres using audio feature extraction and spectrogram images.<br>
-            Techniques: Librosa feature extraction, Random Forest, XGBoost, CNN models.
+            Techniques: Librosa feature extraction, Random Forest, CNN model.
         </li>
     </ul>
     <h2>Libraries/Technologies Used</h2>
