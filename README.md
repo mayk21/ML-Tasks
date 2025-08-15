@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Machine Learning Tasks — Elvevvo Internship</h1>
+    <h1>Machine Learning Tasks — Elevvo Internship</h1>
     <h2>Overview</h2>
     <p>
-        This repository contains four machine learning projects completed during my internship at Elvevvo. <br>
+        This repository contains four machine learning projects completed during my internship at Elevvo. <br>
         Each task demonstrates different aspects of the ML workflow, including data preprocessing, model training,
         evaluation, and visualization. The projects cover a variety of domains such as environmental science,
         finance, recommendation systems, and audio classification.
